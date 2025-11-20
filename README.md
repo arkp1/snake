@@ -1,5 +1,5 @@
 
-The original 1998 snake game. 
+The recreation original 1998 snake game. 
 
 [Live Demo](https://snake-98.vercel.app/)
 
